@@ -1,4 +1,4 @@
-# clamp [![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges) #
+# clamp [![frozen](http://hughsk.github.io/stability-badges/dist/frozen.svg)](http://github.com/hughsk/stability-badges) #
 
 Clamp a value between two other values. It's as simple as modules come - saving
 keystrokes because I've had to write this function too many times.
