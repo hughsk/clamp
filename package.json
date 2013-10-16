@@ -1,0 +1,29 @@
+{
+  "name": "clamp",
+  "description": "Clamp a value between two other values",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.0.0"
+  },
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/clamp"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/clamp/issues"
+  },
+  "keywords": [
+    "clamp",
+    "math",
+    "greater",
+    "less",
+    "than",
+    "between"
+  ]
+}
