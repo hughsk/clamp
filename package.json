@@ -8,7 +8,9 @@
   "devDependencies": {
     "tape": "~2.0.0"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "node test"
+  },
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
   "license": "MIT",
   "repository": {
